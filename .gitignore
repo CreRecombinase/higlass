@@ -1,5 +1,4 @@
 app/local
-yarn.lock
 build/
 docs/_build/
 npm-debug.log
@@ -23,7 +22,6 @@ jsons/
 .idea/
 report.html
 docs/_build
-package-lock.json
 webpack-stats.json
 dist
 lib/vendor
